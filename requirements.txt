@@ -1,0 +1,9 @@
+Pillow
+PyPDF2
+streamlit
+python-dotenv
+google-generativeai
+streamlit
+langchain
+chromadb
+faiss-cup
